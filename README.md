@@ -6,3 +6,7 @@ I create video games and learning material for the Odin Programming Language.
 - I do private one-on-one Odin tutoring / consulting: https://zylinski.se/odin-tutoring/
 - My game CAT & ONION on Steam: https://store.steampowered.com/app/2781210/CAT__ONION/
 - Support me: https://www.patreon.com/karl_zylinski
+
+My Odin gists:
+- Open Window using Windows API: https://gist.github.com/karl-zylinski/f8761856593776014c9de3368437e790
+- Show D3D12 triangle (updated by Jakub): https://gist.github.com/jakubtomsu/ecd83e61976d974c7730f9d7ad3e1fd0
