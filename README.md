@@ -1,4 +1,4 @@
-I create video games and teach how to use the Odin Programming Language and how to do game development.
+I create video games and teach how to use the Odin Programming Language.
 
 - Odin + Raylib + Hot Reload template: https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template
 - Atlas builder for Odin games: https://github.com/karl-zylinski/atlas-builder
