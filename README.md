@@ -5,7 +5,6 @@ I create [video games](https://store.steampowered.com/app/2781210/CAT__ONION/) a
 - I got YouTube tutorials on how to make [snake](https://github.com/karl-zylinski/snake-tutorial-code) and [breakout](https://github.com/karl-zylinski/breakout) using Odin + Raylib
 - I do private one-on-one Odin tutoring / consulting: https://zylinski.se/odin-tutoring/
 - My game CAT & ONION on Steam: https://store.steampowered.com/app/2781210/CAT__ONION/
-- Support me: https://www.patreon.com/karl_zylinski
 
 My Odin gists:
 - [Open Window using Windows API](https://gist.github.com/karl-zylinski/f8761856593776014c9de3368437e790)
