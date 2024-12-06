@@ -2,6 +2,7 @@ I create [video games](https://store.steampowered.com/app/2781210/CAT__ONION/) a
 
 - Odin + Raylib + Hot Reload template: https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template
 - Atlas builder for Odin games: https://github.com/karl-zylinski/atlas-builder
+- I've written a digital book called [Understanding the Odin Programming Language](https://odinbook.com/)
 - I got YouTube tutorials on how to make [snake](https://github.com/karl-zylinski/snake-tutorial-code) and [breakout](https://github.com/karl-zylinski/breakout) using Odin + Raylib
 - My game CAT & ONION on Steam: https://store.steampowered.com/app/2781210/CAT__ONION/
 
