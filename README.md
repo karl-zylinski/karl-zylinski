@@ -9,7 +9,7 @@ I create [video games](https://store.steampowered.com/app/2781210/CAT__ONION/) a
 
 My Odin gists:
 - [Open Window using Windows API](https://gist.github.com/karl-zylinski/f8761856593776014c9de3368437e790)
-- [D3D12 triangle](https://gist.github.com/jakubtomsu/ecd83e61976d974c7730f9d7ad3e1fd0) (updated by Jakub)
+- [D3D12 triangle](https://gist.github.com/karl-zylinski/e1d1d0925ac5db0f12e4837435c5bbfb) (by me and Jakub)
 - [Rect Cut](https://gist.github.com/karl-zylinski/ffccda0babb7e05b0657bf0acd3f1a99)
 - [Box2D + Raylib example](https://gist.github.com/karl-zylinski/5ef25b68281b899acb1dd7774f035177)
 
