@@ -1,4 +1,4 @@
-I create [video games](https://store.steampowered.com/app/2781210/CAT__ONION/) and teach how to use the [Odin Programming Language](https://github.com/odin-lang/Odin). I've made:
+I've made:
 
 - [Odin + Raylib + Hot Reload template](https://github.com/karl-zylinski/odin-raylib-hot-reload-game-template)
 - [Odin + Raylib on the web](https://github.com/karl-zylinski/odin-raylib-web)
