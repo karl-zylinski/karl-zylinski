@@ -11,3 +11,6 @@ I've made:
 - My game CAT & ONION on [Steam](https://store.steampowered.com/app/2781210/CAT__ONION/) and [itch](https://zylinski.itch.io/cat-and-onion).
 
 I run a friendly Discord server about gamedev and Odin. Join and say hi: https://discord.gg/4FsHgtBmFK
+
+Some gists:
+- Odin Rect cut: https://gist.github.com/karl-zylinski/ffccda0babb7e05b0657bf0acd3f1a99
