@@ -7,7 +7,7 @@ I've made:
 - [A digital book called Understanding the Odin Programming Language](https://odinbook.com/)
 - [odin-c-bindgen](https://github.com/karl-zylinski/odin-c-bindgen)
 - [Atlas builder for Odin games](https://github.com/karl-zylinski/atlas-builder)
-- [Handle map (map index + generation to an item](https://github.com/karl-zylinski/odin-handle-map)
+- [Odin Handle map (maps index + generation to an item)](https://github.com/karl-zylinski/odin-handle-map)
 - YouTube tutorials on how to make [snake](https://www.youtube.com/watch?v=lfiQNCNUifI) and [breakout](https://www.youtube.com/watch?v=vfgZOEvO0kM) using Odin + Raylib
 - My game CAT & ONION on [Steam](https://store.steampowered.com/app/2781210/CAT__ONION/) and [itch](https://zylinski.itch.io/cat-and-onion).
 
